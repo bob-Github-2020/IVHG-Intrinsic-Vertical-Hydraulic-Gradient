@@ -24,7 +24,13 @@ groundwater assessments and effective management strategies.
 
 **Main Figures**
 
+![Fig2](https://github.com/user-attachments/assets/a0973e6b-1f27-4dc9-b7a6-1437d89b6abb)
+
+![Fig10](https://github.com/user-attachments/assets/771f1f68-a82b-4cb7-b734-3abe66eb3fc5)
+
 [Fig1.pdf](https://github.com/user-attachments/files/23913531/Fig1.pdf)
+
+[Fig2.pdf](https://github.com/user-attachments/files/23913622/Fig2.pdf)
 
 [Fig3a.pdf](https://github.com/user-attachments/files/23913556/Fig3a.pdf)
 
@@ -50,6 +56,6 @@ groundwater assessments and effective management strategies.
 
 [Fig9.pdf](https://github.com/user-attachments/files/23913590/Fig9.pdf)
 
-![Fig2](https://github.com/user-attachments/assets/a0973e6b-1f27-4dc9-b7a6-1437d89b6abb)
-![Fig10](https://github.com/user-attachments/assets/771f1f68-a82b-4cb7-b734-3abe66eb3fc5)
+[Fig10.pdf](https://github.com/user-attachments/files/23913620/Fig10.pdf)
+
 
