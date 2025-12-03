@@ -26,8 +26,29 @@ groundwater assessments and effective management strategies.
 
 [Fig1.pdf](https://github.com/user-attachments/files/23913531/Fig1.pdf)
 
+[Fig3a.pdf](https://github.com/user-attachments/files/23913556/Fig3a.pdf)
 
+[Fig3bcd.pdf](https://github.com/user-attachments/files/23913559/Fig3bcd.pdf)
 
+[Fig4a.pdf](https://github.com/user-attachments/files/23913563/Fig4a.pdf)
+
+[Fig4b.pdf](https://github.com/user-attachments/files/23913564/Fig4b.pdf)
+
+[Fig5a.pdf](https://github.com/user-attachments/files/23913567/Fig5a.pdf)
+
+[Fig5b.pdf](https://github.com/user-attachments/files/23913569/Fig5b.pdf)
+
+[Fig6a.pdf](https://github.com/user-attachments/files/23913576/Fig6a.pdf)
+
+[Fig6b.pdf](https://github.com/user-attachments/files/23913578/Fig6b.pdf)
+
+[Fig7a.pdf](https://github.com/user-attachments/files/23913583/Fig7a.pdf)
+
+[Fig7b.pdf](https://github.com/user-attachments/files/23913585/Fig7b.pdf)
+
+[Fig8.pdf](https://github.com/user-attachments/files/23913587/Fig8.pdf)
+
+[Fig9.pdf](https://github.com/user-attachments/files/23913590/Fig9.pdf)
 
 ![Fig2](https://github.com/user-attachments/assets/a0973e6b-1f27-4dc9-b7a6-1437d89b6abb)
 ![Fig10](https://github.com/user-attachments/assets/771f1f68-a82b-4cb7-b734-3abe66eb3fc5)
