@@ -5,6 +5,9 @@ by Guoquan Wang (gwang@uh.edu)
 This article is published at  
 ***https://doi.org/10.1016/j.jhydrol.2025.133535***
 
+[2025_Wang_IVHG_JH.pdf](https://github.com/user-attachments/files/34108535/2025_Wang_IVHG_JH.pdf)
+
+
 **Abstract** 
 
 This study investigates the Intrinsic Vertical Hydraulic Gradient (IVHG) and its significant impact on enhancing groundwater-level 
