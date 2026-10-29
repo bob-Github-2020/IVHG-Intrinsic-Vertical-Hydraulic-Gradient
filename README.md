@@ -7,6 +7,8 @@ This article is published at
 
 [2025_Wang_IVHG_JH.pdf](https://github.com/user-attachments/files/34108535/2025_Wang_IVHG_JH.pdf)
 
+[2026_Wang_JH_NPCH_SPB_SPV.pdf](https://github.com/user-attachments/files/34108591/2026_Wang_JH_NPCH_SPB_SPV.pdf)
+
 
 **Abstract** 
 
